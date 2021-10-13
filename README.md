@@ -1,28 +1,13 @@
 # Tic-tac-toe
 
-<center> 
-    ![image](sc.png)
-</center>
+
+![image](sc.png)
 
 
-<br>
-
-<br>
-To run tic tac toe
-
-Step 1 :-  install pygame
-
-> pip install pygame
-
-Step 2 :-  run pygame
-
-> python tictactoe.py# Tic-tac-toe
-
-<center> ![image](sc.png) </center>
 
 <br>
 
-
+<br>
 To run tic tac toe
 
 Step 1 :-  install pygame
